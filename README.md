@@ -1,10 +1,5 @@
-#### Hello, world. Gozman here.
+I'm Chiagoziem, a software engineer who genuinely loves building software. I care a lot about how it's made, not just that it works, but that it's well-thought-out, maintainable, and worth using. I work primarily with TypeScript, and I've recently started learning Go as well.
 
-I build web systems that are deliberate, opinionated, and boring in the right ways, prioritizing clear boundaries, intentional design, and long-term maintainability.
+Most of my time goes into building full-stack applications. This includes everything from APIs and dashboards to developer tools and things I just needed to exist. I'm drawn to problems around architecture, clear data boundaries, and the kind of code that's easy to come back to months later and still understand. If I wouldn't use it myself, I don't ship it.
 
-I care about clean APIs, sensible abstractions, and code that doesn’t fight the next person who has to read it—which is usually me. Most of my work lives in TypeScript, with a growing interest in backend architecture, tooling, and systems thinking. I’ve also been spending time learning Go.
-
-If you’re working on something interesting, care about building things well, and think I’d be a good fit, feel free to reach out.
-
-- X (fka Twitter): <a href="https://x.com/chiagxziem" target=_blank>@chiagxziem</a>
-- Email: chiagoziem.ms@gmail.com
+Want to get in touch? You can reach me by <a href="mailto:chiagoziem.ms@gmail.com" target=_blank>email</a> or say hello on <a href="https://x.com/chiagxziem" target=_blank>Twitter</a>.
