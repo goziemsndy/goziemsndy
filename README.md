@@ -2,4 +2,4 @@ I'm Chiagoziem, a software engineer who genuinely loves building software. I car
 
 Most of my time goes into building full-stack applications. This includes everything from APIs and dashboards to developer tools and things I just needed to exist. I'm drawn to problems around architecture, clear data boundaries, and the kind of code that's easy to come back to months later and still understand. If I wouldn't use it myself, I don't ship it.
 
-Want to get in touch? You can reach me by <a href="mailto:chiagoziem.ms@gmail.com" target=_blank>email</a> or say hello on <a href="https://x.com/chiagxziem" target=_blank>Twitter</a>.
+Want to get in touch? You can reach me by <a href="mailto:gozmansunday@gmail.com" target=_blank>email</a> or say hello on <a href="https://x.com/goziemsndy" target=_blank>Twitter</a>.
